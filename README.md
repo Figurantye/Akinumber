@@ -1,5 +1,5 @@
 # Akinumber
-O programa Password Generator fornece senhas geradas aleatóriamentes com base em escolhas do usúario.
+Akinamber é um programa onde o usuário deve advinhar um número.
 
 ## Índice
 
