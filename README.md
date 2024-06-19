@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Akinumber
 O programa Password Generator fornece senhas geradas aleatóriamentes com base em escolhas do usúario.
 
 ## Índice
