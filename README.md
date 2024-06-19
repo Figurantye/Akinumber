@@ -13,17 +13,18 @@ Akinamber é um programa onde o usuário deve advinhar um número.
 
 Para o uso do Akinumber, é necessario que o usuário insira um numero de 1 a 100 quantas vezes forem necessárias até que ele acerte o número escolhido aleatóriamente pelo programa. Haverão dicas durante as tentativas, como por exemple: 
 
-```bash
-console.log("Muito alto! \nInsira um numero menor! ")
+```plaintext
+Muito alto!
+Insira um numero menor!
 ```
 Caso o usuário digite um número muito alto, e também: 
-```bash
-console.log("Muito baixo! \nInsira um numero maior! ")
+```plaintext
+Muito baixo! Insira um numero maior!
 ```
 Para caso o usuário digite um número muito baixo. Se por algúm acaso for digitado um número menor que o número mínimo ou maior que o número máximo, a resposta do sistema será: 
 
-```bash
-console.log("Número inválido! ")
+```plaintext
+Número inválido!
 ```
 
 Exemplo de saída:
