@@ -14,23 +14,23 @@ O programa Password Generator fornece senhas geradas aleatóriamentes com base e
 Para o uso do Akinumber, é necessario que o usuário insira um numero de 1 a 100 quantas vezes forem necessárias até que ele acerte o número escolhido aleatóriamente pelo programa. Haverão dicas durante as tentativas, como por exemple: 
 
 ```bash
-console.log("Muito alto! \nInsira um numero menor! ");
+console.log("Muito alto! \nInsira um numero menor! ")
 ```
 Caso o usuário digite um número muito alto, e também: 
 ```bash
-console.log("Muito baixo! \nInsira um numero maior! ");
+console.log("Muito baixo! \nInsira um numero maior! ")
 ```
 Para caso o usuário digite um número muito baixo. Se por algúm acaso for digitado um número menor que o número mínimo ou maior que o número máximo, a resposta do sistema será: 
 
 ```bash
-console.log("Número inválido! ");
+console.log("Número inválido! ")
 ```
 
 Exemplo de saída:
 
 ```plaintext
 Advinhe um número de 1 a 100!
-tentativa n: 
+Tentativa n: 
 ```
 ## Contribuição
 
